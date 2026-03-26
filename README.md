@@ -16,7 +16,8 @@
 
 - **Programming:** C, C++
 - **Graphics:** OpenGL
-- **Scripting & Data:** Python, SQL, Data Analysis
+- **Scripting & Data:** Python, SQL, Data Analysis, Data Science
+- **Artificial Intelligence:** Machine Learning, Deep Learning, LLM Fine-tuning, ...
 
 ---
 
