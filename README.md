@@ -50,15 +50,6 @@
 ---
 
 ### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edaerer&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+![GitHub contributions calendar](https://ghchart.rshah.org/edaerer)
 
 ---
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edaerer&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
