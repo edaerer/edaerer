@@ -41,10 +41,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🌳 GitHub Tree
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edaerer&show_icons=true&theme=tokyonight" alt="edaerer's GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edaerer&theme=tokyonight" alt="edaerer's GitHub Profile Details"/>
 </p>
 
 ---
