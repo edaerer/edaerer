@@ -14,10 +14,10 @@
 
 ### 🛠️ Top Skills
 
-- **Programming:** C, C++
+- **Programming:** C, C++, Java
 - **Graphics:** OpenGL
 - **Scripting & Data:** Python, SQL, Data Analysis, Data Science
-- **Artificial Intelligence:** Machine Learning, Deep Learning, LLM Fine-tuning, ...
+- **Artificial Intelligence:** Machine Learning, Deep Learning, LLM Fine-tuning, AI Agents, ...
 
 ---
 
