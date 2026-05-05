@@ -30,7 +30,7 @@
 ### 🌱 About Me
 
 - 🎓 Currently studying Computer Engineering at Istanbul University - Cerrahpaşa
-- 💡 Passionate about computer graphics, data analysis, and exploring new technologies
+- 💡 Passionate about AI & data science, computer graphics, and exploring new technologies
 - 🌍 Based in Istanbul, Türkiye
 
 ---
